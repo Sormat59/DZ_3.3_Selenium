@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9ay8jrng6858rn5b?svg=true)](https://ci.appveyor.com/project/Sormat59/dz-3-3-selenium)
